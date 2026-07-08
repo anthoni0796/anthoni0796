@@ -34,11 +34,13 @@ Un apasionado **Ingeniero en Software y Especialista en Infraestructura IT** con
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthoni0796&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Anthony" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthoni0796&theme=dracula" alt="Estadísticas de GitHub de Anthony" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthoni0796&layout=compact&theme=radical" alt="Lenguajes más usados por Anthony" />
 </p>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anthoni0796&theme=dracula)
+
 
 ---
 
