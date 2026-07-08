@@ -43,5 +43,5 @@ Un apasionado **Ingeniero en Software y Especialista en Infraestructura IT** con
 
 ## 📬 Conéctate Conmigo
 
-*   💼 **LinkedIn:** [Ing. Anthony Reyes](https://linkedin.com) *(Reemplaza con tu enlace)*
-*   📍 **Ubicación:** Bonao, República Dominicana 🇩🇴
+*   💼 **LinkedIn:** [Ing. Anthony Reyes](https://www.linkedin.com/in/anthony-reyes-sanchez)
+*   📍 **Ubicación:** República Dominicana 🇩🇴
