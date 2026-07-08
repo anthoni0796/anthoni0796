@@ -1,44 +1,47 @@
-# 🚀 Full-Stack Web Developer & IT Infrastructure Specialist
+# 🚀 Hola, soy Anthony Reyes (anthoni0796)
 
-¡Hola! Soy **Anthony Reyes**, Ingeniero en Software con más de 8 años de experiencia profesional en el sector tecnológico. Mi enfoque combina el desarrollo web moderno, las estrategias avanzadas de marketing digital y una sólida base en administración de infraestructura de redes.
-
-Como socio y colíder de una agencia de tecnología y diseño, me especializo en construir soluciones web de alto rendimiento, optimizadas para SEO y diseñadas para escalar.
+Un apasionado **Ingeniero en Software y Especialista en Infraestructura IT** con más de 8 años de experiencia transformando ideas en soluciones tecnológicas robustas, escalables y eficientes. Co-lidero una agencia de desarrollo y marketing digital, uniendo el poder del desarrollo web moderno con la optimización de servidores y redes.
 
 ---
 
-## 🛠️ Stack Tecnológico & Conocimientos
+## 🛠️ Stack Tecnológico
 
-### 🌐 Desarrollo Web (Frontend & Backend)
-*   **Frameworks & Arquitecturas Modernas:** Desarrollo eficiente utilizando **Astro.js**, ideal para sitios web ultrarrápidos y optimizados para SEO enfocados en contenido y rendimiento.
-*   **Lenguajes & Core:** Dominio profundo de JavaScript (ES6+), HTML5 y CSS3 avanzado.
-*   **Diseño Responsivo & UI:** Creación de interfaces dinámicas, adaptables y modernas aplicando metodologías limpias (BEM, CSS Modules) y optimizadas para diferentes dispositivos (incluyendo sistemas de visualización comercial y pantallas de TV).
+### 🌐 Desarrollo Frontend & Backend
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📈 Marketing Digital & Estrategia Web
-*   **SEO (Search Engine Optimization):** Optimización técnica on-page, velocidad de carga, estructuración de datos y estrategias de posicionamiento para indexación en motores de búsqueda.
-*   **Plataformas de Ads:** Gestión y optimización de campañas de conversión utilizando **Google Ads** y **Meta Ads** para sectores comerciales competitivos (construcción, turismo, finanzas, etc.).
-*   **Analítica & Conversión:** Configuración de píxeles de seguimiento, Google Analytics y optimización de embudos de venta (*funnels*).
+### 🖥️ Infraestructura IT & SysAdmin
+![MikroTik](https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E74C3C?style=for-the-badge&logo=proxmox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🖥️ Infraestructura IT, Telecomunicaciones & SysAdmin
-*   **Networking Avanzado:** Configuración y administración experta de routers y switches **MikroTik**, especializándome en políticas de Calidad de Servicio (QoS), enrutamiento y seguridad perimetral.
-*   **Virtualización de Servidores:** Implementación, mantenimiento y optimización de clústeres en **Proxmox VE** para entornos de alta disponibilidad.
-*   **Sistemas de Contact Center:** Gestión avanzada de plataformas **Vicidial** para la automatización y administración eficiente de flujos de llamadas entrantes y salientes.
-
----
-
-## 💼 Experiencia e Impacto Profesional
-
-*   **Socio & Director de Operaciones IT:** Co-fundador de una agencia de desarrollo de software y marketing digital activa desde 2022, liderando la entrega de soluciones digitales integrales para clientes locales e internacionales.
-*   **Liderazgo de Proyectos Multi-Región:** Gestión y consolidación exitosa de infraestructuras tecnológicas unificando sistemas informáticos, CRMs y redes corporativas entre sedes ubicadas en EE.UU. (Florida) y la República Dominicana.
+### 📈 Marketing Digital & SEO
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta%20Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white)
 
 ---
 
-## 📊 Filosofía de Trabajo y Enfoque
+## 💼 En lo que me destaco
 
-Me apasiona construir software que no solo sea estéticamente impecable, sino también técnicamente robusto y alineado con los objetivos de negocio de cada cliente. Creo firmemente en la automatización de procesos, el análisis basado en datos y la optimización continua (tanto en el rendimiento del código como en la eficiencia del hardware).
+*   **Desarrollo Web de Alto Rendimiento:** Creación de arquitecturas web modernas y ultrarrápidas utilizando **Astro.js**, priorizando la experiencia de usuario (UX) y el SEO técnico para asegurar indexación y conversión óptimas.
+*   **Gestión de Infraestructura Crítica:** Configuración avanzada de redes y políticas de QoS en **MikroTik**, virtualización de entornos corporativos con clústeres en **Proxmox VE** y administración de plataformas de contact center masivas (**Vicidial**).
+*   **Estrategia Digital Integral:** Diseño e implementación de campañas de conversión a través de Google y Meta Ads orientadas al retorno de inversión (ROI) para diversos sectores comerciales.
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anthoni0796&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Anthony" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthoni0796&layout=compact&theme=radical" alt="Lenguajes más usados por Anthony" />
+</p>
 
 ---
 
 ## 📬 Conéctate Conmigo
 
-*   **LinkedIn:** [Ing. Anthony Reyes](https://linkedin.com) *(Puedes reemplazar con tu enlace directo)*
-*   **Ubicación:** Bonao, República Dominicana 🇩🇴
+*   💼 **LinkedIn:** [Ing. Anthony Reyes](https://linkedin.com) *(Reemplaza con tu enlace)*
+*   📍 **Ubicación:** Bonao, República Dominicana 🇩🇴
