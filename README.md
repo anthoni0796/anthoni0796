@@ -38,6 +38,7 @@ Un apasionado **Ingeniero en Software y Especialista en Infraestructura IT** con
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthoni0796&layout=compact&theme=radical" alt="Lenguajes más usados por Anthony" />
 </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anthoni0796&theme=dracula)
 
 ---
 
